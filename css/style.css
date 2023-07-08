@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url(../img/smart-looking-teacher.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url(../img/christopher-campbell-rDEOVtE7vOs-unsplash\ \(1\).jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -384,17 +384,31 @@ li {
 .service-col-1 a {
     text-decoration: none;
     padding-left: 5px;
+    color: #bac964;
+    padding-right: 10px;
 }
 
-.btn a {
-    padding: 0px 15px;
-    color: #bac964;
-    font-size: 15px;
+.btn-hire-1{
+    color: white;
+    padding: 10px 30px;
+    background: #bac964;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-flex;
 }
 
-.btn {
-    color: #bac964;
-    font-size: 15px;
+.btn-cv-1 {
+    color: white;
+    padding: 10px 30px;
+    background: #434343;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-flex;
+}
+.btn-cv-1:hover{
+    background-color: #a4a4a4;
 }
 
 .service-row-1 {
